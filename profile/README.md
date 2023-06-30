@@ -4,4 +4,5 @@
 <p align="center">
   <a href="https://t.me/tuit_team"><img src="https://github.com/TUITDEVS/.github/blob/main/Tuit_team.png" width=48% alt="Tuit Team"></a>
   &nbsp;&nbsp;&nbsp;
+     <a href=""><img src="https://github.com/TUITDEVS/.github/blob/main/New.png" width=48% alt="Join our Team"></a>
 </p>
